@@ -1,0 +1,164 @@
+{
+	"superheroes": [
+		{
+			"name": "Superman",
+			"costume-color": "Blue and Red",
+			"super-powers": ["Super Strength", "Flight", "Heat Vision"],
+			"Marvel-or-DC": "DC",
+			"gender": "Male"
+		},
+		{
+			"name": "Spider-Man",
+			"costume-color": "Red and Blue",
+			"super-powers": ["Wall-Crawling", "Spider-Sense", "Web-Shooting"],
+			"Marvel-or-DC": "Marvel",
+			"gender": "Male"
+		},
+		{
+			"name": "Wonder Woman",
+			"costume-color": "Red, Blue, and Gold",
+			"super-powers": ["Super Strength", "Lasso of Truth", "Flight"],
+			"Marvel-or-DC": "DC",
+			"gender": "Female"
+		},
+		{
+			"name": "Thor",
+			"costume-color": "Red and Silver",
+			"super-powers": ["God of Thunder", "Mjolnir", "Super Strength"],
+			"Marvel-or-DC": "Marvel",
+			"gender": "Male"
+		},
+		{
+			"name": "Black Widow",
+			"costume-color": "Black",
+			"super-powers": ["Master Spy", "Expert Martial Artist", "Widow's Bite"],
+			"Marvel-or-DC": "Marvel",
+			"gender": "Female"
+		},
+		{
+			"name": "The Flash",
+			"costume-color": "Red and Yellow",
+			"super-powers": ["Super Speed", "Time Travel", "Speed Force"],
+			"Marvel-or-DC": "DC",
+			"gender": "Male"
+		},
+		{
+			"name": "Iron Man",
+			"costume-color": "Red and Gold",
+			"super-powers": ["Powered Armor", "Genius Inventor", "Flight"],
+			"Marvel-or-DC": "Marvel",
+			"gender": "Male"
+		},
+		{
+			"name": "Catwoman",
+			"costume-color": "Black",
+			"super-powers": ["Acrobatics", "Cat-Like Reflexes", "Whip Mastery"],
+			"Marvel-or-DC": "DC",
+			"gender": "Female"
+		},
+		{
+			"name": "Green Lantern",
+			"costume-color": "Green",
+			"super-powers": ["Power Ring", "Energy Constructs", "Flight"],
+			"Marvel-or-DC": "DC",
+			"gender": "Male"
+		},
+		{
+			"name": "Captain America",
+			"costume-color": "Red, White, and Blue",
+			"super-powers": [
+				"Super Soldier Serum",
+				"Shield Mastery",
+				"Peak Human Strength"
+			],
+			"Marvel-or-DC": "Marvel",
+			"gender": "Male"
+		},
+		{
+			"name": "Storm",
+			"costume-color": "White and Black",
+			"super-powers": ["Weather Manipulation", "Flight", "Electricity Control"],
+			"Marvel-or-DC": "Marvel",
+			"gender": "Female"
+		},
+		{
+			"name": "Aquaman",
+			"costume-color": "Orange and Green",
+			"super-powers": [
+				"Atlantean Physiology",
+				"Hydrokinesis",
+				"Super Strength"
+			],
+			"Marvel-or-DC": "DC",
+			"gender": "Male"
+		},
+		{
+			"name": "Hulk",
+			"costume-color": "Green",
+			"super-powers": ["Super Strength", "Invulnerability", "Unlimited Rage"],
+			"Marvel-or-DC": "Marvel",
+			"gender": "Male"
+		},
+		{
+			"name": "Batgirl",
+			"costume-color": "Black and Yellow",
+			"super-powers": ["Martial Arts", "Detective Skills", "Gadgets"],
+			"Marvel-or-DC": "DC",
+			"gender": "Female"
+		},
+		{
+			"name": "Daredevil",
+			"costume-color": "Red",
+			"super-powers": [
+				"Enhanced Senses",
+				"Master Martial Artist",
+				"Sonar Sense"
+			],
+			"Marvel-or-DC": "Marvel",
+			"gender": "Male"
+		},
+		{
+			"name": "Rogue",
+			"costume-color": "Green and Yellow",
+			"super-powers": ["Power Absorption", "Super Strength", "Flight"],
+			"Marvel-or-DC": "Marvel",
+			"gender": "Female"
+		},
+		{
+			"name": "Green Arrow",
+			"costume-color": "Green",
+			"super-powers": ["Master Archer", "Peak Human Accuracy", "Trick Arrows"],
+			"Marvel-or-DC": "DC",
+			"gender": "Male"
+		},
+		{
+			"name": "Black Panther",
+			"costume-color": "Black",
+			"super-powers": [
+				"Enhanced Strength",
+				"Vibranium Suit",
+				"Enhanced Agility"
+			],
+			"Marvel-or-DC": "Marvel",
+			"gender": "Male"
+		},
+		{
+			"name": "Jean Grey",
+			"costume-color": "Green and Gold",
+			"super-powers": ["Telekinesis", "Telepathy", "Phoenix Force"],
+			"Marvel-or-DC": "Marvel",
+			"gender": "Female"
+		},
+		{
+			"name": "Deadpool",
+			"costume-color": "Red and Black",
+			"super-powers": [
+				"Regenerative Healing",
+				"Master Martial Artist",
+				"Breaking the Fourth Wall"
+			],
+			"Marvel-or-DC": "Marvel",
+			"gender": "Male"
+		}
+	]
+}

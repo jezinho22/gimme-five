@@ -1,0 +1,228 @@
+{
+	"mythicalBeasts": [
+		{
+			"name": "Dragon",
+			"culture_of_myth_origin": "Various",
+			"special_powers": ["Fire-breathing", "Flight", "Shape-shifting"],
+			"brief_description": "A large, serpentine or reptilian creature often associated with great power and destruction.",
+			"level_of_violence": 8,
+			"scariness": 9,
+			"preferred_foods": ["Cattle", "Maidens", "Treasure"]
+		},
+		{
+			"name": "Phoenix",
+			"culture_of_myth_origin": "Greek",
+			"special_powers": ["Rebirth", "Immortality", "Fire manipulation"],
+			"brief_description": "A bird that cyclically regenerates or is reborn from its ashes.",
+			"level_of_violence": 2,
+			"scariness": 6,
+			"preferred_foods": ["Herbs", "Resin", "Incense"]
+		},
+		{
+			"name": "Kraken",
+			"culture_of_myth_origin": "Norse",
+			"special_powers": [
+				"Gigantic size",
+				"Tentacle attacks",
+				"Creating storms"
+			],
+			"brief_description": "A colossal sea monster often depicted as a giant octopus or squid.",
+			"level_of_violence": 7,
+			"scariness": 8,
+			"preferred_foods": ["Fish", "Sailors", "Ships"]
+		},
+		{
+			"name": "Minotaur",
+			"culture_of_myth_origin": "Greek",
+			"special_powers": [
+				"Maze navigation",
+				"Superhuman strength",
+				"Human-bull hybrid"
+			],
+			"brief_description": "A creature with the body of a man and the head of a bull, often found in a labyrinth.",
+			"level_of_violence": 5,
+			"scariness": 7,
+			"preferred_foods": ["Human flesh", "Vegetables", "Bulls"]
+		},
+		{
+			"name": "Sphinx",
+			"culture_of_myth_origin": "Egyptian",
+			"special_powers": [
+				"Riddles and puzzles",
+				"Human-lion hybrid",
+				"Guardian of secrets"
+			],
+			"brief_description": "A creature with the body of a lion, wings of a bird, and the face of a human.",
+			"level_of_violence": 3,
+			"scariness": 6,
+			"preferred_foods": ["None"]
+		},
+		{
+			"name": "Cerberus",
+			"culture_of_myth_origin": "Greek",
+			"special_powers": [
+				"Three heads",
+				"Guardian of the Underworld",
+				"Ferociousness"
+			],
+			"brief_description": "A multi-headed dog guarding the entrance to the Greek Underworld.",
+			"level_of_violence": 7,
+			"scariness": 8,
+			"preferred_foods": ["Souls", "Nothing"]
+		},
+		{
+			"name": "Basilisk",
+			"culture_of_myth_origin": "Various",
+			"special_powers": [
+				"Lethal gaze",
+				"Venomous bite",
+				"Serpent with a crown"
+			],
+			"brief_description": "A deadly serpent or dragon known for its ability to kill with a single glance.",
+			"level_of_violence": 9,
+			"scariness": 9,
+			"preferred_foods": ["Small animals", "Birds", "Vermin"]
+		},
+		{
+			"name": "Griffin",
+			"culture_of_myth_origin": "Greek",
+			"special_powers": ["Lion-bird hybrid", "Guardian of treasure", "Flight"],
+			"brief_description": "A creature with the body of a lion and the head of an eagle.",
+			"level_of_violence": 4,
+			"scariness": 5,
+			"preferred_foods": ["Horses", "Deer", "Small mammals"]
+		},
+		{
+			"name": "Kitsune",
+			"culture_of_myth_origin": "Japanese",
+			"special_powers": ["Shapeshifting", "Illusion magic", "Fox spirits"],
+			"brief_description": "A fox spirit often associated with intelligence and trickery.",
+			"level_of_violence": 2,
+			"scariness": 4,
+			"preferred_foods": ["Fish", "Rice", "Tofu"]
+		},
+		{
+			"name": "Chimera",
+			"culture_of_myth_origin": "Greek",
+			"special_powers": [
+				"Multiple animal parts",
+				"Fire-breathing",
+				"Composite creature"
+			],
+			"brief_description": "A monstrous creature with the body parts of various animals, often with a lion's head, goat body, and serpent tail.",
+			"level_of_violence": 6,
+			"scariness": 7,
+			"preferred_foods": ["Livestock", "Humans", "Plants"]
+		},
+		{
+			"name": "Yamata no Orochi",
+			"culture_of_myth_origin": "Japanese",
+			"special_powers": [
+				"Eight heads and tails",
+				"Dragon serpent",
+				"Destruction"
+			],
+			"brief_description": "An enormous eight-headed and eight-tailed serpent from Japanese mythology.",
+			"level_of_violence": 8,
+			"scariness": 9,
+			"preferred_foods": ["Maidens", "Cattle", "Sake"]
+		},
+		{
+			"name": "Roc",
+			"culture_of_myth_origin": "Arabian",
+			"special_powers": [
+				"Gigantic bird",
+				"Carrying off elephants",
+				"Immense wingspan"
+			],
+			"brief_description": "A legendary giant bird of prey, often said to be able to carry off large animals.",
+			"level_of_violence": 4,
+			"scariness": 5,
+			"preferred_foods": ["Elephants", "Large prey"]
+		},
+		{
+			"name": "Bunyip",
+			"culture_of_myth_origin": "Aboriginal Australian",
+			"special_powers": ["Aquatic monster", "Serpentine", "Lurking in swamps"],
+			"brief_description": "An amphibious creature believed to inhabit swamps and waterholes in Australian Aboriginal mythology.",
+			"level_of_violence": 3,
+			"scariness": 6,
+			"preferred_foods": ["Fish", "Waterfowl", "Amphibians"]
+		},
+		{
+			"name": "Chupacabra",
+			"culture_of_myth_origin": "Latin American",
+			"special_powers": ["Bloodsucking", "Predator of livestock", "Elusive"],
+			"brief_description": "A legendary creature said to suck the blood of livestock, primarily goats and chickens, in Latin American folklore.",
+			"level_of_violence": 4,
+			"scariness": 6,
+			"preferred_foods": ["Goats", "Chickens"]
+		},
+		{
+			"name": "Manticore",
+			"culture_of_myth_origin": "Persian",
+			"special_powers": ["Human head", "Lion's body", "Venomous spines"],
+			"brief_description": "A mythical creature with a human head, a lion's body, and the tail of a scorpion.",
+			"level_of_violence": 6,
+			"scariness": 7,
+			"preferred_foods": ["Humans", "Large mammals"]
+		},
+		{
+			"name": "Troll",
+			"culture_of_myth_origin": "Scandinavian",
+			"special_powers": [
+				"Large size",
+				"Regeneration",
+				"Lives in caves or mountains"
+			],
+			"brief_description": "Large, often ugly creatures found in Scandinavian folklore known for their strength and resilience.",
+			"level_of_violence": 5,
+			"scariness": 7,
+			"preferred_foods": ["Humans", "Livestock", "Fish"]
+		},
+		{
+			"name": "Nian",
+			"culture_of_myth_origin": "Chinese",
+			"special_powers": [
+				"Lion-like beast",
+				"Fears fireworks",
+				"Emerges during New Year"
+			],
+			"brief_description": "A lion-like creature that terrorizes villages during the Chinese New Year and fears loud noises.",
+			"level_of_violence": 4,
+			"scariness": 6,
+			"preferred_foods": ["Cattle", "Poultry"]
+		},
+		{
+			"name": "Yeti",
+			"culture_of_myth_origin": "Tibetan",
+			"special_powers": ["Hominid ape", "Elusive", "Lives in high mountains"],
+			"brief_description": "A mysterious ape-like creature said to inhabit the Himalayas, known for its elusiveness.",
+			"level_of_violence": 3,
+			"scariness": 5,
+			"preferred_foods": ["Vegetation", "Small mammals"]
+		},
+		{
+			"name": "Mokele-mbembe",
+			"culture_of_myth_origin": "African",
+			"special_powers": [
+				"Sauropod dinosaur",
+				"Aquatic",
+				"Lives in Congo River"
+			],
+			"brief_description": "A mythical creature often described as a living dinosaur said to inhabit the Congo River basin.",
+			"level_of_violence": 2,
+			"scariness": 4,
+			"preferred_foods": ["Aquatic plants", "Foliage"]
+		},
+		{
+			"name": "Banshee",
+			"culture_of_myth_origin": "Irish",
+			"special_powers": ["Keening wail", "Harbinger of death", "Female spirit"],
+			"brief_description": "A female spirit known for her eerie wailing, believed to be an omen of death in Irish folklore.",
+			"level_of_violence": 2,
+			"scariness": 8,
+			"preferred_foods": ["None"]
+		}
+	]
+}

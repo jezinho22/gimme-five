@@ -1,0 +1,162 @@
+[
+	{
+		"name": "Luke Skywalker",
+		"orientation": "Jedi",
+		"planet_of_origin": "Tatooine",
+		"color_of_lightsaber": "Green",
+		"species": "Human",
+		"image_url": "https://example.com/luke_skywalker.jpg"
+	},
+	{
+		"name": "Darth Vader",
+		"orientation": "Sith",
+		"planet_of_origin": "Tatooine",
+		"color_of_lightsaber": "Red",
+		"species": "Human",
+		"image_url": "https://example.com/darth_vader.jpg"
+	},
+	{
+		"name": "Yoda",
+		"orientation": "Jedi",
+		"planet_of_origin": "Dagobah",
+		"color_of_lightsaber": "Green",
+		"species": "Unknown",
+		"image_url": "https://example.com/yoda.jpg"
+	},
+	{
+		"name": "Emperor Palpatine",
+		"orientation": "Sith",
+		"planet_of_origin": "Naboo",
+		"color_of_lightsaber": "Red",
+		"species": "Human",
+		"image_url": "https://example.com/emperor_palpatine.jpg"
+	},
+	{
+		"name": "Obi-Wan Kenobi",
+		"orientation": "Jedi",
+		"planet_of_origin": "Stewjon",
+		"color_of_lightsaber": "Blue",
+		"species": "Human",
+		"image_url": "https://example.com/obi-wan_kenobi.jpg"
+	},
+	{
+		"name": "Mace Windu",
+		"orientation": "Jedi",
+		"planet_of_origin": "Haruun Kal",
+		"color_of_lightsaber": "Purple",
+		"species": "Human",
+		"image_url": "https://example.com/mace_windu.jpg"
+	},
+	{
+		"name": "Darth Maul",
+		"orientation": "Sith",
+		"planet_of_origin": "Dathomir",
+		"color_of_lightsaber": "Red",
+		"species": "Dathomirian Zabrak",
+		"image_url": "https://example.com/darth_maul.jpg"
+	},
+	{
+		"name": "Ahsoka Tano",
+		"orientation": "Jedi",
+		"planet_of_origin": "Shili",
+		"color_of_lightsaber": "White",
+		"species": "Togruta",
+		"image_url": "https://example.com/ahsoka_tano.jpg"
+	},
+	{
+		"name": "Count Dooku",
+		"orientation": "Sith",
+		"planet_of_origin": "Serenno",
+		"color_of_lightsaber": "Red",
+		"species": "Human",
+		"image_url": "https://example.com/count_dooku.jpg"
+	},
+	{
+		"name": "Rey",
+		"orientation": "Jedi",
+		"planet_of_origin": "Jakku",
+		"color_of_lightsaber": "Blue",
+		"species": "Human",
+		"image_url": "https://example.com/rey.jpg"
+	},
+	{
+		"name": "Darth Sidious",
+		"orientation": "Sith",
+		"planet_of_origin": "Naboo",
+		"color_of_lightsaber": "Red",
+		"species": "Human",
+		"image_url": "https://example.com/darth_sidious.jpg"
+	},
+	{
+		"name": "Qui-Gon Jinn",
+		"orientation": "Jedi",
+		"planet_of_origin": "Coruscant",
+		"color_of_lightsaber": "Green",
+		"species": "Human",
+		"image_url": "https://example.com/qui-gon_jinn.jpg"
+	},
+	{
+		"name": "Kylo Ren",
+		"orientation": "Sith",
+		"planet_of_origin": "Chandrila",
+		"color_of_lightsaber": "Red",
+		"species": "Human",
+		"image_url": "https://example.com/kylo_ren.jpg"
+	},
+	{
+		"name": "Anakin Skywalker",
+		"orientation": "Jedi",
+		"planet_of_origin": "Tatooine",
+		"color_of_lightsaber": "Blue",
+		"species": "Human",
+		"image_url": "https://example.com/anakin_skywalker.jpg"
+	},
+	{
+		"name": "Savage Opress",
+		"orientation": "Sith",
+		"planet_of_origin": "Dathomir",
+		"color_of_lightsaber": "Red",
+		"species": "Dathomirian Zabrak",
+		"image_url": "https://example.com/savage_opress.jpg"
+	},
+	{
+		"name": "Aayla Secura",
+		"orientation": "Jedi",
+		"planet_of_origin": "Ryloth",
+		"color_of_lightsaber": "Blue",
+		"species": "Twi'lek",
+		"image_url": "https://example.com/aayla_secura.jpg"
+	},
+	{
+		"name": "Asajj Ventress",
+		"orientation": "Sith",
+		"planet_of_origin": "Dathomir",
+		"color_of_lightsaber": "Red",
+		"species": "Dathomirian Zabrak",
+		"image_url": "https://example.com/asajj_ventress.jpg"
+	},
+	{
+		"name": "Plo Koon",
+		"orientation": "Jedi",
+		"planet_of_origin": "Dorin",
+		"color_of_lightsaber": "Blue",
+		"species": "Kel Dor",
+		"image_url": "https://example.com/plo_koon.jpg"
+	},
+	{
+		"name": "Darth Tyranus",
+		"orientation": "Sith",
+		"planet_of_origin": "Serenno",
+		"color_of_lightsaber": "Red",
+		"species": "Human",
+		"image_url": "https://example.com/darth_tyranus.jpg"
+	},
+	{
+		"name": "Ki-Adi-Mundi",
+		"orientation": "Jedi",
+		"planet_of_origin": "Cerea",
+		"color_of_lightsaber": "Blue",
+		"species": "Cerean",
+		"image_url": "https://example.com/ki-adi-mundi.jpg"
+	}
+]

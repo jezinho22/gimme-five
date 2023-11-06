@@ -1,0 +1,116 @@
+[
+	{
+		"name": "Marie Curie",
+		"years_alive": "1867 - 1934",
+		"famous_discovery": "Radioactivity and Polonium & Radium elements",
+		"brief_description": "Renowned physicist and chemist, a pioneer in the study of radioactivity and the first woman to win a Nobel Prize."
+	},
+	{
+		"name": "Rosalind Franklin",
+		"years_alive": "1920 - 1958",
+		"famous_discovery": "Contribution to the understanding of DNA structure",
+		"brief_description": "X-ray crystallographer who made significant contributions to the discovery of the DNA double helix."
+	},
+	{
+		"name": "Ada Lovelace",
+		"years_alive": "1815 - 1852",
+		"famous_discovery": "Considered the world's first computer programmer",
+		"brief_description": "Mathematician and writer known for her work on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine."
+	},
+	{
+		"name": "Jane Goodall",
+		"years_alive": "1934 - Present",
+		"famous_discovery": "Pioneering work on the behavior of wild chimpanzees",
+		"brief_description": "Primatologist and ethologist renowned for her extensive research on the lives of wild chimpanzees in Tanzania."
+	},
+	{
+		"name": "Barbara McClintock",
+		"years_alive": "1902 - 1992",
+		"famous_discovery": "Discovery of transposons or 'jumping genes'",
+		"brief_description": "Geneticist who made groundbreaking discoveries about the mobile genetic elements in corn."
+	},
+	{
+		"name": "Hypatia of Hypatia",
+		"years_alive": "360 - 415",
+		"famous_discovery": "Contributions to mathematics, astronomy, and philosophy",
+		"brief_description": "Ancient Greek mathematician, astronomer, and philosopher who made significant contributions to various fields."
+	},
+	{
+		"name": "Chien-Shiung Wu",
+		"years_alive": "1912 - 1997",
+		"famous_discovery": "Experimental proof of the theory of parity violation",
+		"brief_description": "Experimental physicist who played a pivotal role in the field of nuclear physics."
+	},
+	{
+		"name": "Emmy Noether",
+		"years_alive": "1882 - 1935",
+		"famous_discovery": "Noether's theorem in theoretical physics",
+		"brief_description": "Mathematician renowned for her groundbreaking contributions to abstract algebra and theoretical physics."
+	},
+	{
+		"name": "Grace Hopper",
+		"years_alive": "1906 - 1992",
+		"famous_discovery": "Development of the first compiler for a computer programming language",
+		"brief_description": "Computer scientist and U.S. Navy rear admiral known for her pioneering work in computer science and programming languages."
+	},
+	{
+		"name": "Dorothy Crowfoot Hodgkin",
+		"years_alive": "1910 - 1994",
+		"famous_discovery": "Determination of the structures of important biochemical substances",
+		"brief_description": "Chemist who won the Nobel Prize in Chemistry for her work on the structure of important biochemical compounds."
+	},
+	{
+		"name": "Rita Levi-Montalcini",
+		"years_alive": "1909 - 2012",
+		"famous_discovery": "Discovery of nerve growth factor (NGF)",
+		"brief_description": "Neurobiologist who received the Nobel Prize in Physiology or Medicine for her work on NGF and its role in nerve cell development."
+	},
+	{
+		"name": "Katherine Johnson",
+		"years_alive": "1918 - 2020",
+		"famous_discovery": "Mathematical calculations for NASA's early space missions",
+		"brief_description": "African American mathematician and physicist whose calculations were crucial for NASA's early space missions."
+	},
+	{
+		"name": "Rachel Carson",
+		"years_alive": "1907 - 1964",
+		"famous_discovery": "Pioneering work in environmental science and conservation",
+		"brief_description": "Biologist, writer, and environmentalist known for her influential book 'Silent Spring' and her efforts in raising awareness about environmental issues."
+	},
+	{
+		"name": "Mae Jemison",
+		"years_alive": "1956 - Present",
+		"famous_discovery": "First African American woman in space",
+		"brief_description": "Astronaut, physician, and engineer who became the first African American woman to travel in space."
+	},
+	{
+		"name": "Hedy Lamarr",
+		"years_alive": "1914 - 2000",
+		"famous_discovery": "Invention of a frequency-hopping spread spectrum communication technology",
+		"brief_description": "Actress and inventor who developed a groundbreaking technology used in secure communication systems."
+	},
+	{
+		"name": "Gerty Cori",
+		"years_alive": "1896 - 1957",
+		"famous_discovery": "Discovery of the Cori cycle and her work on glycogen metabolism",
+		"brief_description": "Biochemist and first woman to win the Nobel Prize in Physiology or Medicine for her research on carbohydrate metabolism."
+	},
+	{
+		"name": "Ruzena Bajcsy",
+		"years_alive": "1933 - Present",
+		"famous_discovery": "Contributions to computer science, artificial intelligence, and robotics",
+		"brief_description": "Computer scientist and engineer known for her pioneering work in the fields of robotics and artificial intelligence."
+	},
+	{
+		"name": "Gertrude B. Elion",
+		"years_alive": "1918 - 1999",
+		"famous_discovery": "Development of drugs for leukemia, gout, and herpes",
+		"brief_description": "Biochemist and pharmacologist who was awarded the Nobel Prize in Physiology or Medicine for her groundbreaking work in drug development."
+	},
+	{
+		"name": "Temple Grandin",
+		"years_alive": "1947 - Present",
+		"famous_discovery": "Innovative work in animal science and autism advocacy",
+		"brief_description": "Autistic scientist, author, and advocate known for her contributions to animal science and her work in raising awareness about autism."
+	}
+]
